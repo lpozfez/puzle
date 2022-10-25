@@ -1,0 +1,12 @@
+.titulo{
+    text-align: center;
+}
+
+.btnComenzar{
+    margin-top: 210px;
+    text-align: center;
+}
+
+.btnComenzar a{
+    border: 1px solid black;
+}
